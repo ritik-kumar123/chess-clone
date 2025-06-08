@@ -23,3 +23,6 @@ It displays an 8x8 chessboard with pieces placed in their starting positions.
 - Add JavaScript for interactive chess moves.
 - Implement game logic for two-player mode.
 
+  ## Contact
+For questions or suggestions, visit my [GitHub Profile](https://github.com/ritik-kumar123).
+
